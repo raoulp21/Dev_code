@@ -28,6 +28,7 @@ background: linear-gradient(347deg, rgba(41, 68, 36, 0.248) 0%, rgba(54,26,46,0.
         <input type="radio" name="gender" value="other">Other<br><br>
         <label for="car">Please choose your 2022 Car model:</label>
         <select name="car">
+            <option value="hummer">Hummer</option>
             <option value="buick">Buick</option>
             <option value="mazda">Mazda</option>
             <option value="range rover">Range Rover</option>
